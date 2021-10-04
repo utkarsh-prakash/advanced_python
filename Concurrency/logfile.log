@@ -1,0 +1,4 @@
+[MainThread, 2021-01-29 20:08:21,059, INFO] START make_thumbnails
+[Thread-15, 2021-01-29 20:08:21,066, INFO] beginning image resizing
+[MainThread, 2021-01-29 21:51:33,163, INFO] START make_thumbnails
+[Thread-16, 2021-01-29 21:51:33,229, INFO] beginning image resizing
